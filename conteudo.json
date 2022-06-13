@@ -1,0 +1,124 @@
+{
+  "previa": "Seja captando, seja vendendo: o tema hoje é dinheiro.",
+  "artigoDestaque": {
+    "numeroEdicao": "15",
+    "mensagemSpam": "Não queremos ir para o spam! =) selecione este email como “confiável” ou mova-o para a Caixa de Entrada.",
+    "img": "./img/Imagem_Destaque_N15_.png",
+    "alt": "Vídeo participação da Lícia na Mansão das Empreendedoras, simulando o vídeo no Youtube",
+    "titulo": "Elas fazem o investimento delas!",
+    "texto": [
+      "Para aumentar o fluxo de capital para startups com liderança feminina, é importante ter <b>mais representatividade no outro lado da mesa</b>. Qual é o perfil das <b>mulheres investidoras</b>? O que elas buscam em uma startup?",
+      "Ao lado de outras profissionais que exercem essa função, nossa CEO, Lícia Souza, participou da <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:6936059889257443328/\" target=\"_blank\" Mansão das Empreendedoras</a>, evento promovido pela Rede Mulher Empreendedora em SP. O papo foi sobre <b>investimentos, oportunidades e desafios para mulheres em startups</b> (<u>ficou tudo gravado, clica na imagem acima pra assistir!</u>)",
+      "Elas deram dicas de como se preparar para esse momento, e frisaram que há diferentes tipos de investidores, que podem ter mais ou menos sinergia com seus valores e planos para sua startup, ter mais ou menos a oferecer em conhecimento e envolvimento no negócio.",
+      "Captar recursos deve ser uma via de mão dupla: a startup também precisa avaliar quem quer trazer para o quadro societário. E para facilitar, aqui vai o Mapa do Ecossistema de Apoio às Mulheres Brasileiras, também criado pela RME. Que tal dar um zoom na categoria <b>Aceleração de Startups e Investimento</b> e partir para a ação?"
+    ],
+    "linkBotao": "https://www.weimpact.tech/ecommerce-unbox/",
+    "botao": "Leia a entrevista completa"
+  },
+  "compartilhe": {
+    "texto": [
+      "Está aproveitando a leitura?",
+      "Que tal compartilhar essa edição da WE Impact News com outras empreendedoras e empreendedores da sua rede de contatos? 😉"
+    ]
+  },
+  "weImpactNetwork": {
+    "tituloSecao": "#WIN – WE Impact Network",
+    "titulo": "1 ano depois da primeira captação... o que mudou?",
+    "img": "./img/Foto_WIN_N15.png",
+    "alt": "FOTO: Gabriela Lea, Bruno Pereira e Lucas Leite",
+    "linkedinAutora": "",
+    "nomeAutora": "Amanda Andreone",
+    "descricaoAutora": "investidora no BR Angels",
+    "texto": [
+      "A <b>Unbox</b>, primeira e mais completa <b>solução de e-commerce</b> para pequenos e médios lojistas do Brasil, passou pelos desafios da captação e se tornou uma <b>#investidaWEImpact</b> (participamos da rodada de R$ 3,5 mi da <a href=\"https://revistapegn.globo.com/Startups/noticia/2021/06/startup-cria-e-commerce-para-pequenos-e-medios-lojistas-em-5-minutos.html\" target=\"_blank\" retailtech</a> junto com outras grandes investidoras) há exatamente UM ANO! UHUU!",
+      "Para comemorar, fizemos uma breve retrospectiva da trajetória da startup em uma entrevista super bacana com dois dos cofundadores: Gabriela Lea, COO, e o CEO Bruno Pereira. Eles também contaram uma super <b>novidade da plataforma</b> e como ela funciona, dando uma importante lição sobre como é fundamental estar <b>atenta às tendências do mercado</b> e <b>agir rápido</b> para gerar valor aos clientes."
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://www.weimpact.tech/blog-unbox-lanca-pix-aumenta-vendas-online",
+    "botao": "Leia clicando aqui"
+  },
+  "diversidadeNaPratica": {
+    "tituloSecao": "#DiversidadenaPrática",
+    "titulo": "Tecnologia e parto humanizado",
+    "img": "./img/Imagem_DiversidadenaPratica_N15.png",
+    "alt": "IMAGEM parto humanizado / gestante / startup Gestar",
+    "texto": [
+      "Não é raro que uma dor pessoal transforme profissionais em empreendedores. Lettycia Vidal criou uma plataforma que conecta famílias a profissionais de saúde com condutas de pré-natal, parto e pós parto humanizados após ouvir os relatos de violência obstétrica de sua própria mãe.",
+      "<b>Uma em cada 4 mulheres</b> já passaram por episódios desse tipo aqui no Brasil, vivendo uma realidade bastante invisibilizada – e sobre a qual pouca gente fala. Atendendo a esse público, a fundadora da Gestar mostra que <b>#diversidadenaprática</b> também é sobre enxergar grupos que não costumam ser vistos como potenciais públicos alvo."
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": [
+      "texto lista JSON",
+      "texto lista JSON"
+    ],
+    "linkBotao": "https://exame.com/negocios/ela-criou-uma-startup-para-mudar-o-jeito-de-nascer-no-brasil-e-ja-impactou-15-mil-familias/",
+    "botao": "Saiba mais"
+  },
+  "dicaDaCEO": {
+    "tituloSecao": "#DicadaCEO",
+    "titulo": "Título JSON",
+    "img": "./img/Foto_DicadaCEO_N15.png",
+    "alt": "FOTO Nara Vaz Guimarães",
+    "texto": [
+      "“Não existe fórmula pronta nem uma <b>estratégia de vendas</b> que seja bala de prata. O importante é <b>entender sua operação</b> e montar o quebra cabeça que melhor se adequa para criar o modelo de vendas da sua startup.",
+      "Todas as opções podem conviver bem umas com as outras, desde que o processo seja sempre pensado em <b>equilibrar a melhor experiência para o cliente</b>, dentro da <b>maior lucratividade</b> para a empresa.”"
+    ],
+    "linkedinAutora": "",
+    "nomeAutora": "Nara Vaz Guimarães",
+    "descricaoAutora": "fundadora e CEO da Plural Sales, em artigo sobre modelo de vendas para o blog WE Impact. <a href=\"https://www.weimpact.tech/blog-modelo-de-vendas-para-sua-startup/\" target=\"_blank\" Leia clicando aqui!</a>"
+  },
+  "elasImpactam": {
+    "tituloSecao": "#ElasImpactam",
+    "img": "./img/ElasImpactam_Evento WE Ventures - Reactor_N15.png",
+    "alt": "IMAGEM banner do evento",
+    "titulo": "Workshop: dicas para vender mais",
+    "texto": [
+      "E por falar em vendas... No dia <b>21 de junho, às 17h</b>, o fundo WE Ventures, nosso parceiro, promove um workshop online no <b>Microsoft Reactor</b> sobre esse tema.",
+      "Se seu produto é bom, ele se venderá sozinho? Isso não é sempre verdade! Adicionalmente, mulheres enfrentam desafios únicos na hora de vender.",
+      "Como podemos enfrentar esses obstáculos? <b>Patricia Moraes</b>, sócia fundadora da Unbox Capital e <b>Priscyla Laham</b>, diretora de vendas da Microsoft, prometem te contar.",
+      " Se você quer aprender como startups podem <b>aprimorar sua máquina de vendas</b>, inscreva-se!"
+    ],
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://www.meetup.com/Microsoft-Reactor-Sao-Paulo/events/284972849/",
+    "botao": "Quero me inscrever"
+  },
+  "naMidia": {
+    "tituloSecao": "#NaMídia",
+    "img": "./img/NasMidias_N15.png",
+    "alt": "FOTO Sala de Redação e Gaúcha Mais | 05/05/2022",
+    "titulo": "Título",
+    "texto": [
+      "Diretamente de Porto Alegre, nesta edição, compartilhamos a entrevista da nossa CEO, Lícia Souza, para a Rádio Gaúcha. Ela bateu um papo bem legal com os repórteres sobre startups criadas por mulheres, nosso modelo de investimentos, tendências do ecossistema e muito mais."
+    ],
+    "linkBotao": "https://www.youtube.com/watch?t=5888&v=tOSmnEehukY&feature=youtu.be",
+    "botao": "Assista aqui"
+  },
+  "nasRedes": {
+    "tituloSecao": "#NasRedes",
+    "img": "./img/NaRede_N15.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "O corporate venture building é um modelo de investimento de risco que vem crescendo bastante no Brasil. Se você quer entender como ele funciona e <a href=\"https://www.instagram.com/reel/CeUb2Y1FEze/?igshid=YmMyMTA2M2Y=\" target=\"_blank\" como ele pode impulsionar o crescimento da sua startup</a>, baixe o nosso novo ebook!",
+    "linkBotao": "https://startups.weimpact.tech/corporate-venture-building",
+    "botao": "Baixe agora"
+  },
+  "saveTheDate": {
+    "tituloSecao": "#WEImpactIndica",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "ONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSON",
+    "linkBotao": "https://www.sebrae.com.br/sites/PortalSebrae/startupday2021/home",
+    "botao": "Veja a programação completa"
+  },
+  "footer": {
+    "chamada": "Recebeu este email de alguém?",
+    "linkBotao": "https://startups.weimpact.tech/we-impact-news?utm_source=Newsletter&utm_medium=email&utm_campaign=newsletter",
+    "botao": "Assine a WE Impact News",
+    "linkLinkedin": "https://www.linkedin.com/company/weimpact-tech",
+    "imgLinkedin": "https://weimpact-tech.github.io/newsletter-4/img/linkedin-icon.png",
+    "altLinkedin": "Linkedin",
+    "linkInstagram": "https://www.instagram.com/weimpact.tech/",
+    "imgInstagram": "https://weimpact-tech.github.io/newsletter-4/img/insta-icon.png",
+    "altInstagram": "Instagram"
+  }
+}
